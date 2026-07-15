@@ -54,7 +54,3 @@ tab-auto-grouper/
 - Auto-collapse groups after creation
 - Manual "regroup now" button in the popup
 - Group by parent domain vs. subdomain (e.g. treat `docs.google.com` and `mail.google.com` separately or together)
-
-## License
-
-MIT
